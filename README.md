@@ -1,2 +1,2 @@
 # Projet-1
-Mise en ligne d'une application Django permettant de gérer des utilisateurs (connexion et création de comptes) et de gérer des contrats.
+Putting online a Django application allowing to manage users (connection and creation of accounts) and to manage contracts.
